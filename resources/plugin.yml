@@ -1,0 +1,5 @@
+name: KBEditor
+version: 1.0.0
+author: VadamDev
+main: net.vadamdev.kbeditor.Main
+depend: [VIAPI]
